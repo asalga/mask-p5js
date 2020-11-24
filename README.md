@@ -1,6 +1,7 @@
 # mask-p5js
 
 // returns an image object
+
 getMaskImage(mainGraphics, maskGraphics, flipMask)
 
 ## Usage
